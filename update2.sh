@@ -1,6 +1,5 @@
 #!/bin/bash
 read -n 1 -p "Wykonać full-upgrade (f/F) czy upgrade (s/S)?" ans;
-
 case $ans in
     f|F)
         echo '#1 update'

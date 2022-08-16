@@ -1,5 +1,5 @@
 #!/bin/bash
-# Skrypt do aktualizacji systemu i pakietow - odroid.pl zmodyfikowany by onslowek
+# Skrypt do aktualizacji systemu i pakietow - odroid.pl +++ modificated by onslowek
 echo '#1 update'
 sudo apt update
 echo '#2 upgrade'

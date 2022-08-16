@@ -1,2 +1,2 @@
 # skrypty
-#bash >>> chmod +x update.sh
+#bash >>> chmod +x script_name.sh

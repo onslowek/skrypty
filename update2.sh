@@ -5,7 +5,7 @@ case $ans in
     f|F)
         echo '#1 update'
         sudo apt update
-        echo '#2 upgrade'
+        echo '#2 full-upgrade'
         sudo apt full-upgrade -y
         echo '#3 autoremove'
         sudo apt autoremove -y
